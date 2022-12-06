@@ -1,5 +1,6 @@
 {
   "name": "alan_ai_news_application",
+  "author": "Duong Nguyen",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
